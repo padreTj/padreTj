@@ -1,12 +1,11 @@
-# Hi there 👋 welcome to the templates examples 🧾📝
-## This repository is for example templates (Web desing)
-
+#Luis Enrique Alvarez de la Rocha
+##🔭 I’m currently working on Samsung SDS
 <!--
 **padreTj/padreTj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
