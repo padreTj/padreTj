@@ -1,5 +1,5 @@
-#Luis Enrique Alvarez de la Rocha
-##🔭 I’m currently working on Samsung SDS
+# Luis Enrique Alvarez de la Rocha
+## 🔭 I’m currently working on Samsung SDS
 <!--
 **padreTj/padreTj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
